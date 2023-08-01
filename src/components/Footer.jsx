@@ -14,7 +14,7 @@ const Footer = () => {
                         <div className="w-[35px] h-[35px] rounded-full bg-[#252525] flex justify-center items-center">
                             <img src={gmailIcon} alt="" className="w-[18px]" />
                         </div>
-                        <div>jsdev@gmail.com</div>
+                        <div>rkaadil06@gmail.com</div>
                     </div>
                     <ul className="flex 2xl:text-[20px] gap-5 md:gap-8">
                         <li
