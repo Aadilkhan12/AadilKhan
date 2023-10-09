@@ -8,7 +8,7 @@ import Portfolio from "./Portfolio";
 import Achievements from "./Achievements";
 import Div from "./Div";
 
-// IMAGES
+// image
 import sk1 from "../assets/sk-1.png";
 import sk2 from "../assets/python.png";
 import sk3 from "../assets/chakraui.png";
